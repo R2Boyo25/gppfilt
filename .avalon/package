@@ -1,0 +1,7 @@
+{
+    "author": "R2Boyo25",
+    "repo": "gppfilt",
+    "binname": "gppfilt",
+    "needsCompiled": true,
+    "compileScript": ".avalon/comp.sh"
+}

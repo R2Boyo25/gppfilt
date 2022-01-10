@@ -1,0 +1,7 @@
+[_default]
+out = "gppfilt"
+oarg = [
+    "-Ofast"
+]
+com = "c++"
+obj = true
